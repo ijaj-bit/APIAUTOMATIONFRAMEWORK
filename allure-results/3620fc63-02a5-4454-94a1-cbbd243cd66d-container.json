@@ -1,0 +1,1 @@
+{"uuid":"3620fc63-02a5-4454-94a1-cbbd243cd66d","name":"org.Ijaj.tests.crud.TestCreateToken","children":["91b216e4-a462-4e67-b4bc-a65a58afba86"],"befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742450118756,"stop":1742450119706}],"afters":[],"start":1742450118697,"stop":1742450123232}

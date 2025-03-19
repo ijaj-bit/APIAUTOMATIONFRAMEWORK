@@ -1,0 +1,1 @@
+{"uuid":"2ce9a6a4-91f2-4be8-b829-826c659ea57d","name":"org.Ijaj.tests.crud.TestCreateBooking","children":["c626502e-1735-4e0d-a2bf-226972aca9af"],"befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742403149766,"stop":1742403150723}],"afters":[],"start":1742403149710,"stop":1742403151024}

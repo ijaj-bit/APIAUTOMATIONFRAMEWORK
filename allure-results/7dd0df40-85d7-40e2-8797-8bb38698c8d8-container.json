@@ -1,0 +1,1 @@
+{"uuid":"7dd0df40-85d7-40e2-8797-8bb38698c8d8","name":"APIAUTOMATIONFRAMEWORK","children":["895557d0-73e0-47d3-bbe8-06b6ddeda7fc"],"befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742399565186,"stop":1742399566125}],"afters":[],"start":1742399565155,"stop":1742399566491}

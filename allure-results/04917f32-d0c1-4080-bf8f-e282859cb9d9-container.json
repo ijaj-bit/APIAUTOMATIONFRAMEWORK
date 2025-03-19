@@ -1,0 +1,1 @@
+{"uuid":"04917f32-d0c1-4080-bf8f-e282859cb9d9","name":"org.Ijaj.tests.integration.TestingE2E_1","children":["8ffe88de-778d-4afa-b6fe-68dd9fcbbf47"],"befores":[{"name":"setUP","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742463206632,"stop":1742463207604}],"afters":[],"start":1742463206578,"stop":1742463211254}
